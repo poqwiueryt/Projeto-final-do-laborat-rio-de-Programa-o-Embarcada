@@ -9,5 +9,5 @@ Projeto final da disciplina ECOP14 - LABORATÓRIO DE PROGRAMAÇÃO EMBARCADA.
 - Tutorial de intalação: Um tutorial passo a passo para instalar os programas e baixar os arquivos necessários para execução do projeto;
 
 Video Demonstrando o funcionamento do jogo em ação: 
-Meu LinkedIn: 
+Meu LinkedIn: https://www.linkedin.com/in/pedro-vinicius-silva-888715201/
   
